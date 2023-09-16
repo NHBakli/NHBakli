@@ -1,16 +1,17 @@
 <div align="center">
 <h1 align="center">Hi <img width="35" src="./src/waving.gif"> i'm Bakli !</h1>
 
-
----
-
-  <img src="https://komarev.com/ghpvc/?username=votre_nom_utilisateur&color=blue" alt="Profil Views">
-
 ---
 
 ## 📝 About me
 
-Bonjour ! Je suis Bakli, un passionné de jeux vidéos, cybersécurité, programmation. Je suis ravi de partager mon travail et mes projets avec la communauté GitHub.
+👨‍💻 Actuellement, je travaille sur un site de restauration avec un système de réservation.
+
+📚 Mes objectifs d'apprentissage incluent React.js, Symfony et Flutter.
+
+🔍 Je suis en quête d'une entreprise en alternance pour 2024, avec une préférence pour PHP et/ou JavaScript, dans le cadre d'une formation bac +5.
+
+📧 Vous pouvez me contacter à cette adresse : [votre@email.com](mailto:bakli78948@gmail.com).
 
 ---
 
