@@ -8,13 +8,13 @@
 
 ---
 
-## 📝 À propos de moi
+## 📝 About me
 
 Bonjour ! Je suis Bakli, un passionné de jeux vidéos, cybersécurité, programmation. Je suis ravi de partager mon travail et mes projets avec la communauté GitHub.
 
 ---
 
-## 🌐 Mes réseaux sociaux 
+## 🌐 My Social Media
 
 <div align="center">
   <a href="https://twitter.com/nhbakli"><img src="https://i.imgur.com/Nws3raA.png" alt="Twitter" width="60" height="60"></a>
@@ -23,7 +23,7 @@ Bonjour ! Je suis Bakli, un passionné de jeux vidéos, cybersécurité, program
 
 ---
 
-## 🧰 Langages et Technologies
+## 🧰 My Skills
 
 
   <img src="https://imgur.com/BZQoAH7.png" alt="HTML" width="60" height="60">
