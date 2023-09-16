@@ -1,6 +1,7 @@
 <div align="center">
-<img src="./src/waving.gif" alt="Bonjour !" width="40" height="40">
-Bienvenue sur mon profil GitHub !
+  <img src="./src/waving.gif" alt="Bonjour !" width="50" height="50">
+  <h1>Bienvenue sur mon profil GitHub !</h1>
+
 
 ---
 
