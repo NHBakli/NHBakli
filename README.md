@@ -1,8 +1,5 @@
 <div align="center">
-<div style="display: flex; align-items: center; justify-content: center; text-align: center;">
-  <img src="./src/waving.gif" alt="Bonjour !" width="50" height="50" style="margin-right: 10px;">
-  <h1>Bienvenue sur mon profil GitHub !</h1>
-</div>
+<h1 align="center"><img width="35" src="./src/waving.gif">Bienvenue sur mon profil GitHub !</h1>
 
 
 ---
