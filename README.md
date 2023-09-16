@@ -1,5 +1,6 @@
 <div align="center">
-<h1>👋 Bienvenue sur mon profil GitHub !</h1>
+<img src="../src/waving.gif" alt="wawing">
+<h1>Bienvenue sur mon profil GitHub !</h1>
 
 ---
 
