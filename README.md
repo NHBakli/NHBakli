@@ -11,7 +11,7 @@
 
 ### 👨‍💻 Actuellement, je travaille sur un site de restauration avec un système de réservation.
 
-### 📚 Mes objectifs d'apprentissage incluent React.js, Symfony et Flutter.
+### 📚 Mes objectifs d'apprentissage incluent React.js, Symfony, Flutter et Dart.
 
 ### 🔍 Je suis en quête d'une entreprise en alternance pour 2024, avec une préférence pour PHP et/ou JavaScript, dans le cadre d'une formation bac +5.
 
