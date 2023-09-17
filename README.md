@@ -3,19 +3,19 @@
 
 ---
 
-## 📝 About me
+### 📝 About me
 
-👨‍💻 Actuellement, je travaille sur un site de restauration avec un système de réservation.
+# 👨‍💻 Actuellement, je travaille sur un site de restauration avec un système de réservation.
 
-📚 Mes objectifs d'apprentissage incluent React.js, Symfony et Flutter.
+# 📚 Mes objectifs d'apprentissage incluent React.js, Symfony et Flutter.
 
-🔍 Je suis en quête d'une entreprise en alternance pour 2024, avec une préférence pour PHP et/ou JavaScript, dans le cadre d'une formation bac +5.
+# 🔍 Je suis en quête d'une entreprise en alternance pour 2024, avec une préférence pour PHP et/ou JavaScript, dans le cadre d'une formation bac +5.
 
-📧 Vous pouvez me contacter à cette adresse : [contact@gmail.com](mailto:bakli78948@gmail.com).
+# 📧 Vous pouvez me contacter à cette adresse : [contact@gmail.com](mailto:bakli78948@gmail.com).
 
 ---
 
-## 🌐 My Social Media
+### 🌐 My Social Media
 
 <div align="center">
   <a href="https://twitter.com/nhbakli"><img src="https://i.imgur.com/Nws3raA.png" alt="Twitter" width="60" height="60"></a>
@@ -24,7 +24,7 @@
 
 ---
 
-## 🧰 My Skills
+### 🧰 My Skills
 
 
   <img src="https://imgur.com/BZQoAH7.png" alt="HTML" width="60" height="60">
@@ -40,9 +40,9 @@
 
 ---
 
-N'hésitez pas à explorer mes dépôts pour découvrir mes projets et contributions. Si vous avez des questions ou des suggestions, n'hésitez pas à me contacter. Je suis toujours ouvert aux collaborations et aux idées nouvelles !
+# N'hésitez pas à explorer mes dépôts pour découvrir mes projets et contributions. Si vous avez des questions ou des suggestions, n'hésitez pas à me contacter. Je suis toujours ouvert aux collaborations et aux idées nouvelles !
 
 ---
 
-Merci de visiter mon profil ! 🚀
+# Merci de visiter mon profil ! 🚀
 </div>
