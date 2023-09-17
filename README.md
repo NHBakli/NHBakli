@@ -3,7 +3,7 @@
 
 ---
 
-![](https://komarev.com/ghpvc/?username=NHBakli&color=FFA200)
+![](https://komarev.com/ghpvc/?username=NHBakli&color=FF5500)
 
 ---
 
