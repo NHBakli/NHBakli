@@ -44,5 +44,5 @@
 
 ---
 
-### Merci de visiter mon profil ! 🚀
+### 🚀 Merci de visiter mon profil ! 
 </div>
