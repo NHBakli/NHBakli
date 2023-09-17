@@ -3,6 +3,10 @@
 
 ---
 
+![](https://komarev.com/ghpvc/?username=NHBakli&color=FFA200)
+
+---
+
 # 📝 About me
 
 ### 👨‍💻 Actuellement, je travaille sur un site de restauration avec un système de réservation.
@@ -45,5 +49,4 @@
 ---
 
 ### 🚀 Merci de visiter mon profil !   
-![](https://komarev.com/ghpvc/?username=NHBakli&color=00FBFF)
 </div>
