@@ -45,5 +45,5 @@
 ---
 
 ### 🚀 Merci de visiter mon profil !   
-! [Compteur de vues de profil](https://komarev.com/ghpvc/?username=NHBakli)
+![](https://komarev.com/ghpvc/?username=NHBakli&color=00FBFF)
 </div>
