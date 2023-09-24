@@ -11,9 +11,9 @@
 
 ### 👨‍💻 Actuellement, je travaille sur un site de restauration avec un système de réservation.
 
-### 📚 Mes objectifs d'apprentissage incluent React.js, Symfony, Flutter et Dart.
+### 📚 Mes objectifs d'apprentissage incluent Java, Angular.
 
-### 🔍 Je suis en quête d'une entreprise en alternance pour 2024, avec une préférence pour PHP et/ou JavaScript, dans le cadre d'une formation bac +5.
+### 🔍 Je suis en quête d'une entreprise en alternance pour 2024, avec une préférence pour PHP et/ou JavaScript, dans le cadre d'une formation bac +3/4.
 
 ### 📧 Vous pouvez me contacter à cette adresse : [contact@gmail.com](mailto:bakli78948@gmail.com).
 
