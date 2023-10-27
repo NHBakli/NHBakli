@@ -41,6 +41,7 @@
   <img src="https://imgur.com/YbQyWx6.png" alt="nextcord.py" width="60" height="60">
   <img src="https://imgur.com/u5JmiQy.png" alt="Figma" width="60" height="60">
   <img src="https://consultant-webdesigner.fr/wp-content/uploads/2020/04/bootstrap_4-icon.png" alt="bootstrap" width="60" height="60">
+  <img src="https://imgur.com/xZ1fktX" alt="SCSS" width="60" height="60">
 
 ---
 
