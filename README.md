@@ -9,7 +9,7 @@
 
 # 📝 About me
 
-### 👨‍💻 Actuellement, je travaille sur un site de restauration avec un système de réservation.
+### 👨‍💻 Actuellement, je me forme en autodidacte sur ReactJS.
 
 ### 📚 Mes objectifs d'apprentissage incluent ReactJS, NextJS.
 
