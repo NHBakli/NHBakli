@@ -34,7 +34,7 @@
   <img src="https://imgur.com/BZQoAH7.png" alt="HTML" width="60" height="60">
   <img src="https://i.imgur.com/8TjTunE.png" alt="CSS" width="60" height="60">
   <img src="https://i.imgur.com/x2zVqM4.png" alt="PHP" width="60" height="60">
-  <img src="https://icons-for-free.com/iconfiles/png/512/logo+my+query+server+sql+icon-1320184811372606623.png" alt="SQL" width="60" height="60">
+  <img src="https://imgur.com/QTVO6ND" alt="SQL" width="60" height="60">
   <img src="https://i.imgur.com/ZZxpMuV.png" alt="JS" width="60" height="60">
   <img src="https://i.imgur.com/mL1TnDr.png" alt="Chart.js" width="60" height="60">
   <img src="https://i.imgur.com/pBbMxJu.png" alt="Python" width="60" height="60">
