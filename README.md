@@ -36,9 +36,8 @@
   <img src="https://i.imgur.com/x2zVqM4.png" alt="PHP" width="60" height="60">
   <img src="https://imgur.com/QTVO6ND.png" alt="SQL" width="60" height="60">
   <img src="https://i.imgur.com/ZZxpMuV.png" alt="JS" width="60" height="60">
-  <img src="https://i.imgur.com/mL1TnDr.png" alt="Chart.js" width="60" height="60">
+  <img src="https://imgur.com/a/XJEOq5H.png" alt="TS" width="60" height="60">
   <img src="https://i.imgur.com/pBbMxJu.png" alt="Python" width="60" height="60">
-  <img src="https://imgur.com/YbQyWx6.png" alt="nextcord.py" width="60" height="60">
   <img src="https://imgur.com/u5JmiQy.png" alt="Figma" width="60" height="60">
   <img src="https://consultant-webdesigner.fr/wp-content/uploads/2020/04/bootstrap_4-icon.png" alt="bootstrap" width="60" height="60">
   <img src="https://imgur.com/xZ1fktX.png" alt="SCSS" width="60" height="60">
