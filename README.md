@@ -9,9 +9,9 @@
 
 # 📝 About me
 
-### 👨‍💻 Actuellement, je me forme en autodidacte sur ReactJS.
+### 👨‍💻 Actuellement, je me forme en autodidacte sur NextJS.
 
-### 📚 Mes objectifs d'apprentissage incluent NextJS, Angular.
+### 📚 Mes objectifs d'apprentissage incluent React Native, Angular.
 
 ### 🔍 Je suis en quête d'une entreprise en alternance pour 2024, avec une préférence pour PHP et/ou JavaScript, dans le cadre d'une formation bac +3/4.
 
