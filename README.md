@@ -33,15 +33,15 @@
 
   <img src="https://imgur.com/BZQoAH7.png" alt="HTML" width="60" height="60">
   <img src="https://i.imgur.com/8TjTunE.png" alt="CSS" width="60" height="60">
-  <img src="https://i.imgur.com/x2zVqM4.png" alt="PHP" width="60" height="60">
+  <img src="https://cdn.freebiesupply.com/logos/thumbs/2x/sass-1-logo.png" alt="SCSS" width="60" height="60">
   <img src="https://imgur.com/QTVO6ND.png" alt="SQL" width="60" height="60">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" alt="PostgreSQL" width="60" height="60">
+  <img src="https://i.imgur.com/x2zVqM4.png" alt="PHP" width="60" height="60">
   <img src="https://i.imgur.com/ZZxpMuV.png" alt="JS" width="60" height="60">
   <img src="https://cdn.worldvectorlogo.com/logos/typescript-2.svg" alt="TS" width="60" height="60">
   <img src="https://i.imgur.com/pBbMxJu.png" alt="Python" width="60" height="60">
   <img src="https://imgur.com/u5JmiQy.png" alt="Figma" width="60" height="60">
   <img src="https://consultant-webdesigner.fr/wp-content/uploads/2020/04/bootstrap_4-icon.png" alt="bootstrap" width="60" height="60">
-  <img src="https://cdn.freebiesupply.com/logos/thumbs/2x/sass-1-logo.png" alt="SCSS" width="60" height="60">
   <img src="https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-png-transparent.png" alt="ReactJS" width="60" height="60">
   <img src="https://aurelien-loyer.fr/codelab-nestjs/img/logo.svg" alt="NestJS" width="60" height="60">
 
