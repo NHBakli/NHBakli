@@ -35,7 +35,7 @@
   <img src="https://i.imgur.com/8TjTunE.png" alt="CSS" width="60" height="60">
   <img src="https://i.imgur.com/x2zVqM4.png" alt="PHP" width="60" height="60">
   <img src="https://imgur.com/QTVO6ND.png" alt="SQL" width="60" height="60">
-  <img src="https://imgur.com/a/PbVhhk1.png" alt="PostgreSQL" width="60" height="60">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" alt="PostgreSQL" width="60" height="60">
   <img src="https://i.imgur.com/ZZxpMuV.png" alt="JS" width="60" height="60">
   <img src="https://cdn.worldvectorlogo.com/logos/typescript-2.svg" alt="TS" width="60" height="60">
   <img src="https://i.imgur.com/pBbMxJu.png" alt="Python" width="60" height="60">
