@@ -43,7 +43,7 @@
   <img src="https://consultant-webdesigner.fr/wp-content/uploads/2020/04/bootstrap_4-icon.png" alt="bootstrap" width="60" height="60">
   <img src="https://cdn.freebiesupply.com/logos/thumbs/2x/sass-1-logo.png" alt="SCSS" width="60" height="60">
   <img src="https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-png-transparent.png" alt="ReactJS" width="60" height="60">
-  <img src="https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/248941546/original/01c1966f2c81dbb29570fe29ae4c80bd5400ee9c/help-you-with-nestjs.png" alt="NestJS" width="60" height="60">
+  <img src="https://aurelien-loyer.fr/codelab-nestjs/img/logo.svg" alt="NestJS" width="60" height="60">
 
 ---
 
