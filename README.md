@@ -42,8 +42,10 @@
   <img src="https://i.imgur.com/pBbMxJu.png" alt="Python" width="60" height="60">
   <img src="https://w7.pngwing.com/pngs/452/24/png-transparent-js-logo-node-logos-and-brands-icon.png" alt="Node JS" width="60" height="60">
   <img src="https://consultant-webdesigner.fr/wp-content/uploads/2020/04/bootstrap_4-icon.png" alt="bootstrap" width="60" height="60">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/320px-Tailwind_CSS_Logo.svg.png" alt="Tailwwind CSS" width="60" height="60">
   <img src="https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-png-transparent.png" alt="ReactJS" width="60" height="60">
   <img src="https://aurelien-loyer.fr/codelab-nestjs/img/logo.svg" alt="NestJS" width="60" height="60">
+  <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="NextJS" width="60" height="60">
   <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="VS Code" width="60" height="60">
   <img src="https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.png" alt="Postman" width="60" height="60">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/2048px-Git_icon.svg.png" alt="GIT" width="60" height="60">
