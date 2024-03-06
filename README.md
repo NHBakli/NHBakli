@@ -9,7 +9,7 @@
 
 # 📝 About me
 
-### 👨‍💻 Actuellement, je me forme en autodidacte sur NextJS.
+### 👨‍💻 Actuellement, je me forme en autodidacte sur NextJS et Docker.
 
 ### 📚 Mes objectifs d'apprentissage incluent React Native, Angular.
 
