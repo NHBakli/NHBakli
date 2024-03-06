@@ -15,7 +15,7 @@
 
 ### 🔍 Je suis en quête d'une entreprise en alternance pour 2024, avec une préférence pour PHP et/ou JavaScript/TypeScript, dans le cadre d'une formation bac +3/4.
 
-### 📧 Vous pouvez me contacter à cette adresse : [contact@gmail.com](mailto:bakli78948@gmail.com).
+### 📧 Vous pouvez me contacter à cette adresse : [contact@gmail.com](mailto:clementhamimi@gmail.com).
 
 ---
 
