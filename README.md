@@ -13,7 +13,7 @@
 
 ### 📚 Mes objectifs d'apprentissage incluent React Native, Angular.
 
-### 🔍 Je suis en quête d'une entreprise en alternance pour 2024, avec une préférence pour JavaScript/TypeScript, dans le cadre d'une formation bac +3/4.
+### 🤝 Je suis alternant au sein de l'entreprise Factory ou j'exerce le rôle de Développeur Full-Stack. J'obtiendrai en 2025 le titre de Concepteur/développeur d'applications au niveau bac +3.
 
 ### 📧 Vous pouvez me contacter à cette adresse : [contact@gmail.com](mailto:clementhamimi@gmail.com).
 
