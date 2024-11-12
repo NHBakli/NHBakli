@@ -9,9 +9,9 @@
 
 # 📝 About me
 
-### 👨‍💻 Actuellement, je me forme en autodidacte sur NextJS et Docker.
+### 👨‍💻 Actuellement, je me forme en autodidacte sur React Native et Docker.
 
-### 📚 Mes objectifs d'apprentissage incluent React Native, Angular.
+### 📚 Mes objectifs d'apprentissage incluent VueJS, Angular.
 
 ### 🤝 Je suis actuellement alternant au sein de l'entreprise Factory ou j'exerce le rôle de Développeur Full-Stack. J'obtiendrai en 2025 le titre de Concepteur/développeur d'applications au niveau bac +3.
 
