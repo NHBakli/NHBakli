@@ -36,6 +36,7 @@
   <img src="https://cdn.freebiesupply.com/logos/thumbs/2x/sass-1-logo.png" alt="SCSS" width="60" height="60">
   <img src="https://imgur.com/QTVO6ND.png" alt="SQL" width="60" height="60">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" alt="PostgreSQL" width="60" height="60">
+  <img src="https://seeklogo.com/images/S/supabase-logo-DCC676FFE2-seeklogo.com.png" alt="Supabase" width="60" height="60">
   <img src="https://i.imgur.com/x2zVqM4.png" alt="PHP" width="60" height="60">
   <img src="https://i.imgur.com/ZZxpMuV.png" alt="JS" width="60" height="60">
   <img src="https://cdn.worldvectorlogo.com/logos/typescript-2.svg" alt="TS" width="60" height="60">
@@ -46,9 +47,10 @@
   <img src="https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-png-transparent.png" alt="ReactJS" width="60" height="60">
   <img src="https://aurelien-loyer.fr/codelab-nestjs/img/logo.svg" alt="NestJS" width="60" height="60">
   <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="NextJS" width="60" height="60">
-  <img src="https://w7.pngwing.com/pngs/846/87/png-transparent-mean-solution-stack-express-js-node-js-javascript-github-text-trademark-logo-thumbnail.png" alt="ExpressJS" width="60" height="60">
+  <img src="https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo.png" alt="ExpressJS" width="60" height="60">
   <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="VS Code" width="60" height="60">
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/71/WebStorm_Icon.png" alt="Webstorm" width="60" height="60">
+  <img src="https://static.wikia.nocookie.net/logopedia/images/a/a7/Vercel_favicon.svg" alt="Vercel" width="60" height="60">
   <img src="https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.png" alt="Postman" width="60" height="60">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/2048px-Git_icon.svg.png" alt="GIT" width="60" height="60">
   <img src="https://cdn.worldvectorlogo.com/logos/xampp.svg" alt="XAMPP" width="60" height="60">
