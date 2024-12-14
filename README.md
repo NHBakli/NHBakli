@@ -46,7 +46,9 @@
   <img src="https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-png-transparent.png" alt="ReactJS" width="60" height="60">
   <img src="https://aurelien-loyer.fr/codelab-nestjs/img/logo.svg" alt="NestJS" width="60" height="60">
   <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="NextJS" width="60" height="60">
+  <img src="https://w7.pngwing.com/pngs/846/87/png-transparent-mean-solution-stack-express-js-node-js-javascript-github-text-trademark-logo-thumbnail.png" alt="ExpressJS" width="60" height="60">
   <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="VS Code" width="60" height="60">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/71/WebStorm_Icon.png" alt="Webstorm" width="60" height="60">
   <img src="https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.png" alt="Postman" width="60" height="60">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/2048px-Git_icon.svg.png" alt="GIT" width="60" height="60">
   <img src="https://cdn.worldvectorlogo.com/logos/xampp.svg" alt="XAMPP" width="60" height="60">
