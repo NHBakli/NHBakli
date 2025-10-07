@@ -13,7 +13,7 @@
 
 ### 📚 Mes objectifs d'apprentissage incluent VueJS, Angular.
 
-### 🤝 Je suis actuellement alternant au sein de l'entreprise Factory ou j'exerce le rôle de Développeur Full-Stack. J'obtiendrai en 2027 le titre de architecte des systèmes d'information au seins d'Epitech.
+### 🤝 Je suis actuellement alternant au sein de l’entreprise Factory, où j’exerce le rôle de Développeur Full-Stack. J’obtiendrai en 2027 le titre d’Architecte des systèmes d’information au sein d’Epitech.
 
 ### 📧 Vous pouvez me contacter à cette adresse : [contact@gmail.com](mailto:clementhamimi@gmail.com).
 
